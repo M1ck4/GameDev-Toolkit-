@@ -32,13 +32,12 @@
 
 ## Installation
 
-1. **Purchase the Add-on:**
-   - Visit [Your Sales Platform](https://yourplatform.com/GameDev-Pipeline-Toolkit) to purchase the add-on.
 
-2. **Download the Add-on:**
+
+ **Download the Add-on:**
    - After purchase, download the ZIP file from your account or the confirmation email.
 
-3. **Install in Blender:**
+ **Install in Blender:**
    - Open Blender.
    - Go to `Edit > Preferences > Add-ons`.
    - Click `Install...` and navigate to the downloaded ZIP file.
@@ -51,38 +50,38 @@ Once installed and enabled, you can access the **GameDev Toolkit** from the N-Pa
 
 ### Project Setup
 
-1. **Root Path:** Specify the directory where your main project folder will reside (e.g., your Unity or Unreal project directory).
-2. **Project Name:** Define the name of your project folder (e.g., `SciFiWeapon`).
+ **Root Path:** Specify the directory where your main project folder will reside (e.g., your Unity or Unreal project directory).
+ **Project Name:** Define the name of your project folder (e.g., `SciFiWeapon`).
 
 
-3. **Create Folder Structure:** Click the `Create Folder Structure` button to generate the predefined folders within your project directory.
-4. **Open Project Folder:** Easily open your project folder in your system's file explorer.
+ **Create Folder Structure:** Click the `Create Folder Structure` button to generate the predefined folders within your project directory.
+ **Open Project Folder:** Easily open your project folder in your system's file explorer.
 
 ### Folder Structure Management
 
-1. **Subfolder List:** Manage your project's subfolders directly within the add-on preferences.
-2. **Add/Remove Folders:** Use the `+` and `-` buttons to add or remove folders from the list.
-3. **Reorder Folders:** Use the up and down arrows to arrange the folder order as needed.
+ **Subfolder List:** Manage your project's subfolders directly within the add-on preferences.
+ **Add/Remove Folders:** Use the `+` and `-` buttons to add or remove folders from the list.
+ **Reorder Folders:** Use the up and down arrows to arrange the folder order as needed.
 
 ### Exporting Models
 
 #### Export for Unity
 
-1. **Select Objects:** Choose the mesh objects you wish to export.
-2. **Export Settings:** Configure export options such as export folder, base filename, and iteration settings.
-3. **Export:** Click the `Export for Unity` button to export your models with Unity-friendly FBX settings.
+ **Select Objects:** Choose the mesh objects you wish to export.
+ **Export Settings:** Configure export options such as export folder, base filename, and iteration settings.
+ **Export:** Click the `Export for Unity` button to export your models with Unity-friendly FBX settings.
 
 #### Export for Unreal
 
-1. **Select Objects:** Choose the mesh objects you wish to export.
-2. **Export Settings:** Configure export options specific to Unreal Engine.
-3. **Export:** Click the `Export for Unreal` button to export your models with Unreal-friendly FBX settings.
+ **Select Objects:** Choose the mesh objects you wish to export.
+ **Export Settings:** Configure export options specific to Unreal Engine.
+ **Export:** Click the `Export for Unreal` button to export your models with Unreal-friendly FBX settings.
 
 ### Substance 3D Naming
 
-1. **Enable Naming:** In the add-on preferences, enable `Use Substance 3D Naming`.
-2. **Configure Suffixes:** Define the suffixes for low-poly (`_low`) and high-poly (`_high`) meshes.
-3. **Rename Objects:** Use the `Rename Selected (Low)` and `Rename Selected (High)` buttons in the N-Panel to apply naming conventions to selected objects.
+ **Enable Naming:** In the add-on preferences, enable `Use Substance 3D Naming`.
+ **Configure Suffixes:** Define the suffixes for low-poly (`_low`) and high-poly (`_high`) meshes.
+ **Rename Objects:** Use the `Rename Selected (Low)` and `Rename Selected (High)` buttons in the N-Panel to apply naming conventions to selected objects.
 
 ## Triangulation Methods
 
