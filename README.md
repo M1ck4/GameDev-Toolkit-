@@ -54,7 +54,6 @@ Once installed and enabled, you can access the **GameDev Toolkit** from the N-Pa
 1. **Root Path:** Specify the directory where your main project folder will reside (e.g., your Unity or Unreal project directory).
 2. **Project Name:** Define the name of your project folder (e.g., `SciFiWeapon`).
 
-![Project Setup](screenshots/project_setup.png)
 
 3. **Create Folder Structure:** Click the `Create Folder Structure` button to generate the predefined folders within your project directory.
 4. **Open Project Folder:** Easily open your project folder in your system's file explorer.
@@ -64,8 +63,6 @@ Once installed and enabled, you can access the **GameDev Toolkit** from the N-Pa
 1. **Subfolder List:** Manage your project's subfolders directly within the add-on preferences.
 2. **Add/Remove Folders:** Use the `+` and `-` buttons to add or remove folders from the list.
 3. **Reorder Folders:** Use the up and down arrows to arrange the folder order as needed.
-
-![Folder Management](screenshots/folder_management.png)
 
 ### Exporting Models
 
@@ -81,15 +78,11 @@ Once installed and enabled, you can access the **GameDev Toolkit** from the N-Pa
 2. **Export Settings:** Configure export options specific to Unreal Engine.
 3. **Export:** Click the `Export for Unreal` button to export your models with Unreal-friendly FBX settings.
 
-![Export Options](screenshots/export_options.png)
-
 ### Substance 3D Naming
 
 1. **Enable Naming:** In the add-on preferences, enable `Use Substance 3D Naming`.
 2. **Configure Suffixes:** Define the suffixes for low-poly (`_low`) and high-poly (`_high`) meshes.
 3. **Rename Objects:** Use the `Rename Selected (Low)` and `Rename Selected (High)` buttons in the N-Panel to apply naming conventions to selected objects.
-
-![Substance Naming](screenshots/substance_naming.png)
 
 ## Triangulation Methods
 
