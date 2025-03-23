@@ -110,19 +110,6 @@ Access the add-on preferences to customize various settings:
 - **Substance 3D Naming:** Enable and configure naming conventions for Substance 3D workflows.
 - **Duplicate Suffix Handling:** Choose how to handle Blender’s automatic duplication suffixes.
 
-## Purchase
-
-Unlock the full potential of your game development workflow with the **GameDev Pipeline Toolkit**. Purchase now to gain access to all features, regular updates, and premium support.
-
-[Buy Now](https://yourplatform.com/GameDev-Pipeline-Toolkit)
-
-## Contributing
-
-While this is a premium product, community feedback is invaluable. If you encounter issues or have feature requests, please reach out through our [support channel](https://yourplatform.com/support).
-
-## License
-
-**GameDev Pipeline Toolkit** is a proprietary software. Unauthorized distribution or modification is prohibited. For licensing inquiries, please contact [your.email@example.com](mailto:your.email@example.com).
 
 ## Acknowledgements
 
