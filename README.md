@@ -35,7 +35,7 @@
 
  **Download the Add-on:**
    - Download/clone the ZIP file.
-   - 
+     
  **Install in Blender:**
    - Open Blender.
    - Go to `Edit > Preferences > Add-ons`.
