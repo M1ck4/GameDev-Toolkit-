@@ -1,7 +1,6 @@
 # GameDev Pipeline Toolkit 1.10
 
 ![Blender 3.0+](https://img.shields.io/badge/blender-3.0%2B-orange.svg)
-![License](https://img.shields.io/badge/license-Proprietary-blue.svg)
 
 **GameDev Pipeline Toolkit** is a premium Blender add-on designed to streamline your game development workflow. It offers a fully customizable folder structure, flexible triangulation options, seamless FBX export iterations for both Unity and Unreal Engine, Substance 3D naming conventions, duplicate suffix handling, and more. Ideal for both solo developers and larger teams, this toolkit enhances productivity and maintains organization throughout your pipeline.
 
