@@ -35,8 +35,8 @@
 
 
  **Download the Add-on:**
-   - After purchase, download the ZIP file from your account or the confirmation email.
-
+   - Download/clone the ZIP file.
+   - 
  **Install in Blender:**
    - Open Blender.
    - Go to `Edit > Preferences > Add-ons`.
